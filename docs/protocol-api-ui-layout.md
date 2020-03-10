@@ -23,7 +23,6 @@ What is server?
 Worth reading all these posts and sharing with students a short summary or abridged versions.
 https://blog.postman.com/tag/fundamentals/
 
-
 [API Directory](https://www.programmableweb.com/apis/directory)
 
 ----
